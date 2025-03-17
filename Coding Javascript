@@ -1,0 +1,11 @@
+let titulo = document.querySelector('h1')
+titulo.innerHTML = 'Bienvenido al mundo dev'
+
+para la unión de HTML y Javascript
+<script>app.js</script> 
+
+<button onclick="alertFunction()">Haz clic aquí</button>
+
+function alertFunction() {
+  alert("¡Hola, has hecho clic en el botón!");
+}
